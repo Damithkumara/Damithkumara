@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/dhamith98kumara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhamith98kumara" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dhamith-kumara-963696107/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhamith-kumara-963696107/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/damith.kumara.902/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/damith.kumara.902/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/damith.kumara.902/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/damith.kumara.902/" height="30" width="40" /></a>
 <a href="https://medium.com/@damithkumararoxx55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@damithkumararoxx55" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/dkofficialorg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dkofficialorg" height="30" width="40" /></a>
 </p>
